@@ -1,10 +1,10 @@
 # Samarpan NGO Website 🌟
 
-Welcome to the Samarpan NGO website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
-
-<div align="center">
-  <img src="https://github.com/sanon8268/Samarpan-readme/blob/master/Screenshot%20from%202023-07-30%2023-56-03.png" alt="Preview Site" width="550" />
+<div align="center" style="margin-bottom: 50px;">
+  <img src="https://github.com/sanon8268/Samarpan-readme/blob/master/1.101471a7eeb8d6de7411%20(1).jpg" width="800" />
 </div>
+<br><br>
+Welcome to the Samarpan NGO website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
 
 ## About Our Page :star2:
 
