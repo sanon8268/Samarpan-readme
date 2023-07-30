@@ -22,7 +22,7 @@ At Samarpan, our goal is to impart academic and basic life lessons to underprivi
 
 The Samarpan website is developed using the following technology:
 
-- React.js: A popular JavaScript library for building user interfaces, enabling us to create an interactive and responsive website.
+- React.js: A popular JavaScript library.
 
 ## Feedback and Support :beginner:
 
