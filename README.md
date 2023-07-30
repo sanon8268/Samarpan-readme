@@ -6,7 +6,7 @@
 <br><br>
 Welcome to the Samarpan NGO website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
 
-## About US :star2:
+## About Us :star2:
 
 Samarpan is an organization that believes in the transformative power of education. Education not only enables individuals to secure their livelihoods but also enhances their awareness about various issues, including healthcare, social behavior, and rights, making them better citizens. Founded in 2014 by Om Prakash Jha, a determined student from the department of Chemical Engineering, Samarpan seeks to provide educational opportunities to underprivileged children, helping them build a brighter future.
 
