@@ -1,4 +1,4 @@
-# Samarpan NGO Website 🌟
+# Samarpan NGO 🌟
 
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://github.com/sanon8268/Samarpan-readme/blob/master/1.101471a7eeb8d6de7411%20(1).jpg" width="800" />
