@@ -1,35 +1,39 @@
-# Samarpan NGO 🌟
+<h1 align="center">
+Samarpan Website 🌟
+</h1>
 
 <div align="center" style="margin-bottom: 50px;">
-  <img src="https://github.com/sanon8268/Samarpan-readme/blob/master/1.101471a7eeb8d6de7411%20(1).jpg" width="800" />
+  <img src="https://i.postimg.cc/MK0HGXsY/imgd.jpg" width="800" />
 </div>
 <br><br>
-Welcome to the Samarpan NGO website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
+Welcome to the Samarpan Website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
 
 ## About Us :star2:
 
-Samarpan is an organization that believes in the transformative power of education. Education not only enables individuals to secure their livelihoods but also enhances their awareness about various issues, including healthcare, social behavior, and rights, making them better citizens. Founded in 2014 by Om Prakash Jha, a determined student from the department of Chemical Engineering, Samarpan seeks to provide educational opportunities to underprivileged children, helping them build a brighter future.
+Samarpan is an organization that believes in the transformative power of education. Education not only enables individuals to secure their livelihoods but also enhances their awareness about various issues, social behavior. Samarpan seeks to provide educational opportunities to underprivileged children, helping them build a brighter future.
 
-### Vision 🎯
 
-Our vision is to bring about positive change in the lives of economically underprivileged and underserved children. We aspire to empower these young minds with education, providing them with the essential tools for personal and academic growth.
-
-### Goal 🎯
-
-At Samarpan, our goal is to impart academic and basic life lessons to underprivileged children. We believe that education is the key to unlocking their potential and creating a path to a brighter future.
-
-## Technologies Used :hotsprings:
+## Tech Stack ♨️
 
 The Samarpan website is developed using the following technology:
 
-- React.js: A popular JavaScript library.
+📑  |  🧩
+------------- | -------------
+_Frontend_  |  HTML, CSS, JAVASCRIPT, REACT.JS
 
-## Feedback and Support :beginner:
+## Contact Us 📞
 
-Your feedback and suggestions are valuable to us. If you encounter any issues or have ideas to improve the website, please create an issue in this repository.
+Feel free to reach out to us with any thoughts that come to mind.
 
-Let's join hands and make a meaningful impact on the lives of these young souls through education and empowerment. Together, we can build a better future for them.
+📧 **Email**: <a href="mailto:hithaldia.samarpan@gmail.com">hithaldia.samarpan@gmail.com</a>
 
-Thank you for your support! 👏
+Whether you have questions, ideas, or suggestions, we're eager to engage in meaningful conversations. Your insights are valuable in our ongoing mission to create positive change. If you come across any issues or have ideas to enhance the website, please don't hesitate to create an issue right here in this repository.
 
-**Team Samarpan NGO**
+<br>
+<h3 align="center">
+  Please give this repo a ⭐ it really helps us!
+</h3>
+<h3 align="center">
+  <strong>** Team Samarpan</strong>
+</h3>
+
