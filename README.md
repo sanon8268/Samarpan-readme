@@ -2,11 +2,15 @@
 Samarpan Website 🌟
 </h1>
 
+<h2 align="center">
+Welcome to the Samarpan Website Repository!
+</h2>
+
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://i.postimg.cc/MK0HGXsY/imgd.jpg" width="800" />
 </div>
 <br><br>
-Welcome to the Samarpan Website! This repository contains the source code and content for our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
+This repository contains the source code and Assets of our organization's website, built using React.js. Below, you will find an overview of the project, its objectives, and the technologies used.
 
 ## About Us :star2:
 
