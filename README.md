@@ -1,5 +1,5 @@
 <h1 align="center">
-Samarpan Website 🌟
+Samarpan Website
 </h1>
 
 <h2 align="center">
